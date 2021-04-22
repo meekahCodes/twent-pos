@@ -1,0 +1,16 @@
+!.gitignore
+/vendor
+/node_modules
+/public/storage
+Homestead.yaml
+Homestead.json
+.env
+.settings
+.buildpath
+.vscode
+.project
+/config/snappy.php
+/storage
+composer.lock
+/boostrap/cache
+
